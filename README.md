@@ -23,9 +23,13 @@ $oldName = "JLG2"
 $newName = "NewProj" 
 ```
 
+## Report a problem
+
+Please submit an issue to report any problems. 
+
 ## Contributing
 
-Contributions are welcome. Feel free to submit a pull request here. 
+While this is a public mirror, contributions are welcome. Feel free to submit a pull request here. 
 
 This repository is a mirror from my private Gitea instance. Accepted PRs 
 will be merged and then this repo will be updated, and you will receive 
